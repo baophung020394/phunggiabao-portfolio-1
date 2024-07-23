@@ -148,7 +148,7 @@ export const experiences = [
     company_name: "Apollo English",
     icon: apollo,
     iconBg: "#accbe1",
-    date: "Oct 2015 - Jan 2017",
+    date: "Oct 2015 - June 2017",
     points: [
       "Development and maintenance of company system Sugar CRM",
       "Professional training to use the system for sales, admins, teachers",
