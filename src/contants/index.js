@@ -246,7 +246,7 @@ export const projects = [
       "Team size: 7 members",
       "Tech stacks: React.js, Node.js, PostgreSQL, Vercel, Render.com.",
     ],
-    link: "https://www.viralprofits.yt/quiz",
+    link: "https://www.viralprofits.yt/home",
   },
   {
     iconUrl: seven11,
